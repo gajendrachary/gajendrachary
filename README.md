@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:01696F&height=220&section=header&text=Gajendrachary&fontSize=42&fontColor=F9FAFB&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20DevHorizon%20Technologies%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=60&descSize=18" alt="Header banner" />
 
-# Gajendrachary
+# Gajenddrachary
 
 ### Building premium digital products with clean engineering and real business value
 
