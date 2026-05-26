@@ -11,7 +11,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=gajendrachary&label=Profile%20Views&color=0e7490&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gajendrachary?style=for-the-badge&color=111827&labelColor=D4AF37" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/gajendrachary?style=for-the-badge&color=111827&labelColor=D4AF37" alt="GitHub stars" />
 </p>
 
 </div>
@@ -58,7 +57,11 @@ I design and build high-value software systems for hospitality, construction, co
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E5E7EB&icon_color=0EA5E9&bg_color=00000000" alt="GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=0EA5E9&text_color=E5E7EB&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=0EA5E9&text_color=374151&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+</picture>
 
 </td>
 </tr>
@@ -112,8 +115,12 @@ Client E-commerce     → Storefronts and service-based commerce platforms
 ## GitHub insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E5E7EB&bg_color=00000000" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=gajendrachary&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=E5E7EB&dates=9CA3AF&sideNums=E5E7EB&background=00000000" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=E5E7EB&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=FFFFFF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  </picture>
+  <img height="170" src="https://streak-stats.demolab.com?user=gajendrachary&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
