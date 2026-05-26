@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:01696F&height=220&section=header&text=Gajendrachary&fontSize=42&fontColor=F9FAFB&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20DevHorizon%20Technologies%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=60&descSize=18" alt="Header banner" />
 
-# Gajenddrachary
+
 
 ### Building premium digital products with clean engineering and real business value
 
@@ -57,11 +57,7 @@ I design and build high-value software systems for hospitality, construction, co
 </td>
 <td width="40%" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=0EA5E9&text_color=E5E7EB&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=0EA5E9&text_color=374151&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
 </td>
 </tr>
@@ -115,12 +111,12 @@ Client E-commerce     → Storefronts and service-based commerce platforms
 ## GitHub insights
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=E5E7EB&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=FFFFFF" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-  </picture>
-  <img height="170" src="https://streak-stats.demolab.com?user=gajendrachary&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gajendrachary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrachary&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gajendrachary&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
