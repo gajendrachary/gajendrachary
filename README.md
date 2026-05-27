@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Core languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,git,github,figma,postman" alt="Core tech stack" />
 </p>
